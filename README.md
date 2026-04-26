@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BerndHagen/Minecraft-Server-Plugins/raw/main/img/img_v1.0.1-mcplugin.png" alt="Piston Crusher" width="128" />
+  <img src="images/plugin-logo.png" alt="Piston Crusher" width="128" />
 </p>
 <h1 align="center">Piston Crusher</h1>
 <p align="center">
@@ -63,3 +63,4 @@ To build a working piston crusher, arrange blocks in a straight line:
 ### **License**
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
