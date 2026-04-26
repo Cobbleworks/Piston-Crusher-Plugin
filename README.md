@@ -64,3 +64,26 @@ To build a working piston crusher, arrange blocks in a straight line:
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
+
+## **Screenshots**
+
+The screenshots below demonstrate the core features of the Piston Crusher plugin, including the piston crusher mechanics, setup configuration, output multiplier, and administrative commands.
+
+<table>
+  <tr>
+    <th>Piston Crusher - Crusher Mechanics</th>
+    <th>Piston Crusher - Crusher Setup</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-crusher.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-crusher.png" alt="Crusher Mechanics" width="450"></a></td>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-setup.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-setup.png" alt="Crusher Setup" width="450"></a></td>
+  </tr>
+  <tr>
+    <th>Piston Crusher - Output Multiplier</th>
+    <th>Piston Crusher - Admin Commands</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-output.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-output.png" alt="Output Multiplier" width="450"></a></td>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-commands.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-commands.png" alt="Admin Commands" width="450"></a></td>
+  </tr>
+</table>
