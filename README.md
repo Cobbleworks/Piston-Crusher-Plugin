@@ -92,19 +92,11 @@ The screenshots below demonstrate the core features of the Piston Crusher plugin
 
 <table>
   <tr>
-    <th>Piston Crusher - Crusher Mechanics</th>
     <th>Piston Crusher - Automatic Farm</th>
+    <th>Piston Crusher - Setup Configuration</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-crusher.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-crusher.png" alt="Crusher Mechanics" width="450"></a></td>
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-automatic-farm.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-automatic-farm.png" alt="Automatic Farm" width="450"></a></td>
-  </tr>
-  <tr>
-    <th>Piston Crusher - Block Arrangement</th>
-    <th>Piston Crusher - Admin Commands</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-block-arrangement.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-block-arrangement.png" alt="Block Arrangement" width="450"></a></td>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-commands.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-commands.png" alt="Admin Commands" width="450"></a></td>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-setup.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-setup.png" alt="Setup Configuration" width="450"></a></td>
   </tr>
 </table>
