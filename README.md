@@ -88,15 +88,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## **Screenshots**
 
-The screenshots below demonstrate the core features of the Piston Crusher plugin, including the piston crusher mechanics, setup configuration, output multiplier, and administrative commands.
+The screenshots below demonstrate the core features of the Piston Crusher plugin, including a gold block being crushed by the piston and an automatic cobblestone generator machine.
 
 <table>
   <tr>
-    <th>Piston Crusher - Automatic Farm</th>
-    <th>Piston Crusher - Setup Configuration</th>
+    <th>Piston Crusher - Gold Block Crushing</th>
+    <th>Piston Crusher - Automatic Generator</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-automatic-farm.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-automatic-farm.png" alt="Automatic Farm" width="450"></a></td>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-setup.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-setup.png" alt="Setup Configuration" width="450"></a></td>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-gold-crush.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-gold-crush.png" alt="Gold Block Crushing" width="450"></a></td>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-auto-generator.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher/raw/main/images/screenshot-auto-generator.png" alt="Automatic Generator" width="450"></a></td>
   </tr>
 </table>
