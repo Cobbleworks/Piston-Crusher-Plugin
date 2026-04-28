@@ -115,20 +115,4 @@ The screenshots below demonstrate Piston Crusher Plugin in action, including eme
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-auto-generator.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-auto-generator.png" alt="Automatic generator setup" width="450"></a></td>
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-block-arrangement.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-block-arrangement.png" alt="Block arrangement example" width="450"></a></td>
   </tr>
-  <tr>
-    <th>Piston Crusher - Setup</th>
-    <th>Piston Crusher - Output</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-setup.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-setup.png" alt="Plugin setup example" width="450"></a></td>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-output.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-output.png" alt="Crusher output items" width="450"></a></td>
-  </tr>
-  <tr>
-    <th>Piston Crusher - Commands</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-commands.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-commands.png" alt="Plugin commands in use" width="450"></a></td>
-    <td></td>
-  </tr>
 </table>
