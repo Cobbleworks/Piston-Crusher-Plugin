@@ -159,7 +159,7 @@ cd Piston-Crusher-Plugin
 mvn clean package
 ```
 
-The output JAR is written to `target/Piston-Crusher-x.x.x.jar`. Copy it into your server's `plugins/` folder as described in the [Installation Steps](#installation-steps) section.
+The output JAR is written to `target/PistonCrusher-x.x.x.jar`. Copy it into your server's `plugins/` folder as described in the [Installation Steps](#installation-steps) section.
 
 **Project Structure:**
 
@@ -179,7 +179,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## **Screenshots**
 
-The screenshots below demonstrate Piston Crusher in action, including emerald block crushing, multiple crusher alignment, and automated cobblestone farm setups.
+The screenshots below demonstrate Piston Crusher in action, including emerald block crushing, multiple crusher alignment, automated cobblestone farm setups, commands, and output results.
 
 <table>
   <tr>
@@ -206,8 +206,18 @@ The screenshots below demonstrate Piston Crusher in action, including emerald bl
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-auto-generator.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-auto-generator.png" alt="Automatic generator setup" width="450"></a></td>
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-block-arrangement.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-block-arrangement.png" alt="Block arrangement example" width="450"></a></td>
   </tr>
-<<<<<<< HEAD
+  <tr>
+    <th>Piston Crusher - Commands</th>
+    <th>Piston Crusher - Output</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-commands.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-commands.png" alt="Piston Crusher admin commands" width="450"></a></td>
+    <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-output.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-output.png" alt="Crusher output items" width="450"></a></td>
+  </tr>
+  <tr>
+    <th colspan="2">Piston Crusher - Setup</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-setup.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-setup.png" alt="Piston crusher setup view" width="450"></a></td>
+  </tr>
 </table>
-=======
-</table>
->>>>>>> 153060565f3c59e832b87a93676881790ada6cb9
