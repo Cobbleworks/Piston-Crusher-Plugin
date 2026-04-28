@@ -206,4 +206,8 @@ The screenshots below demonstrate Piston Crusher in action, including emerald bl
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-auto-generator.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-auto-generator.png" alt="Automatic generator setup" width="450"></a></td>
     <td><a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-block-arrangement.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Cobbleworks/Piston-Crusher-Plugin/raw/main/images/screenshot-block-arrangement.png" alt="Block arrangement example" width="450"></a></td>
   </tr>
+<<<<<<< HEAD
 </table>
+=======
+</table>
+>>>>>>> 153060565f3c59e832b87a93676881790ada6cb9
