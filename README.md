@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/plugin-logo.png" alt="Piston Crusher Plugin" width="180" />
+  <img src="images/plugin-logo.png" alt="Piston Crusher Plugin" width="200" height="200" />
 </p>
 <h1 align="center">Piston Crusher Plugin</h1>
 <p align="center">
@@ -35,15 +35,16 @@ Piston Crusher is an open-source Minecraft automation plugin that turns piston i
     - [Installation Steps](#installation-steps)
     - [First Launch](#first-launch)
     - [Verifying Installation](#verifying-installation)
-2. [Configuration](#configuration)
+2. [Third-Party Plugins](#third-party-plugins)
+3. [Configuration](#configuration)
     - [Data Files](#data-files)
-3. [How It Works](#how-it-works)
-4. [Setup Example](#setup-example)
-5. [Administrative Commands](#administrative-commands)
-6. [Permissions](#permissions)
-7. [Building from Source](#building-from-source)
-8. [License](#license)
-9. [Screenshots](#screenshots)
+4. [How It Works](#how-it-works)
+5. [Setup Example](#setup-example)
+6. [Administrative Commands](#administrative-commands)
+7. [Permissions](#permissions)
+8. [Building from Source](#building-from-source)
+9. [License](#license)
+10. [Screenshots](#screenshots)
 
 ## **Getting Started**
 
@@ -84,6 +85,10 @@ The plugin is ready to use immediately after installation. To build a working cr
 - Run `/pistoncrusher whitelist list` to confirm the default whitelist is loaded
 - Place a cobblestone block between a piston and a waxed chiseled copper block and fire the piston - the cobblestone should be crushed and drop items
 - If the plugin fails to load, check the server console for `PistonCrusher` error messages (common causes: wrong Java version, corrupt JAR, or unsupported API version)
+
+## **Third-Party Plugins**
+
+None. Piston Crusher is self-contained and uses only the server API.
 
 ## **Configuration**
 
