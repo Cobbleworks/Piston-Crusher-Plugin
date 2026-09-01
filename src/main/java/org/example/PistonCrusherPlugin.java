@@ -13,6 +13,9 @@ import java.util.List;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
+/**
+ * Loads crusher settings and registers command and piston-event handling.
+ */
 public class PistonCrusherPlugin extends JavaPlugin {
     private PistonCrusherListener listener;
     private Set<Material> whitelist = new HashSet<>(Arrays.asList(Material.COBBLESTONE));

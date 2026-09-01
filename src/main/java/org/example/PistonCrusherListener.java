@@ -11,6 +11,9 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.Location;
 import java.util.Set;
 
+/**
+ * Converts eligible blocks when a piston moves them into a configured crushing face.
+ */
 public class PistonCrusherListener implements Listener {
     private final Set<Material> whitelist;
     private double multiplier;

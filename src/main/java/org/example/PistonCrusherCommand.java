@@ -11,6 +11,9 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Applies live crusher configuration changes from administrator commands.
+ */
 public class PistonCrusherCommand implements CommandExecutor, TabCompleter {
     private final PistonCrusherPlugin plugin;
 
