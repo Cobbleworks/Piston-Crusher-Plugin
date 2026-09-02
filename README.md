@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="images/plugin-logo.png" alt="Piston Crusher Plugin" width="200" height="200" />
+  <img src="images/plugin-logo.png" alt="Cobbleworks - Piston Crusher Plugin" width="200" height="200" />
 </p>
-<h1 align="center">Piston Crusher Plugin</h1>
+<h1 align="center">Cobbleworks - Piston Crusher Plugin</h1>
 <p align="center">
-  <b>Automate block crushing using piston mechanics.</b><br>
-  <b>Configurable whitelist, multiplier, crusher block type, and live admin commands.</b>
+  <b>Turn a simple piston line into a configurable block crusher for farms and processing builds.</b><br>
+  <b>Choose eligible materials, the crusher block, and the drop multiplier through live admin commands.</b>
 </p>
 <p align="center">
   <a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/releases"><img src="https://img.shields.io/github/v/release/Cobbleworks/Piston-Crusher-Plugin?include_prereleases&style=flat-square&color=4CAF50" alt="Latest Release"></a>&nbsp;&nbsp;<a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-17+-orange?style=flat-square" alt="Java Version">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Minecraft-1.20+-green?style=flat-square" alt="Minecraft Version">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Platform-Spigot%2FPaper-yellow?style=flat-square" alt="Platform">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">&nbsp;&nbsp;<a href="https://github.com/Cobbleworks/Piston-Crusher-Plugin/issues"><img src="https://img.shields.io/github/issues/Cobbleworks/Piston-Crusher-Plugin?style=flat-square&color=orange" alt="Open Issues"></a>
@@ -12,7 +12,7 @@
 
 Piston Crusher is an open-source Minecraft automation plugin that turns piston interactions into configurable block-crushing mechanics. When a piston extends and a whitelisted block is pushed into the configured crusher block, the target block is removed and item drops are generated using the configured multiplier. The plugin stores persistent runtime settings in data files (`whitelist.yml`, `crusherblock.yml`) and exposes all management operations through `/pistoncrusher` commands.
 
-### **Core Features**
+## **Core Features**
 
 - **Whitelist-Driven Crushing:** Only materials on the plugin whitelist are eligible for crushing
 - **Multiplier Control:** Set a global drop multiplier (minimum `1.0`) via command
@@ -21,7 +21,7 @@ Piston Crusher is an open-source Minecraft automation plugin that turns piston i
 - **Persistent Settings:** Whitelist and crusher block are saved in plugin data files
 - **Tab Completion:** Subcommands and material names are suggested automatically
 
-### **Supported Platforms**
+## **Supported Platforms**
 
 - **Server Software:** `Spigot`, `Paper`, `Purpur`, `CraftBukkit`
 - **Minecraft Versions:** `1.20` and higher
@@ -30,21 +30,23 @@ Piston Crusher is an open-source Minecraft automation plugin that turns piston i
 
 ## **Table of Contents**
 
-1. [Getting Started](#getting-started)
+1. [Core Features](#core-features)
+2. [Supported Platforms](#supported-platforms)
+3. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation Steps](#installation-steps)
     - [First Launch](#first-launch)
     - [Verifying Installation](#verifying-installation)
-2. [Third-Party Plugins](#third-party-plugins)
-3. [Configuration](#configuration)
+4. [Third-Party Plugins](#third-party-plugins)
+5. [Configuration](#configuration)
     - [Data Files](#data-files)
-4. [How It Works](#how-it-works)
-5. [Setup Example](#setup-example)
-6. [Administrative Commands](#administrative-commands)
-7. [Permissions](#permissions)
-8. [Building from Source](#building-from-source)
-9. [License](#license)
-10. [Screenshots](#screenshots)
+6. [How It Works](#how-it-works)
+7. [Setup Example](#setup-example)
+8. [Administrative Commands](#administrative-commands)
+9. [Permissions](#permissions)
+10. [Building from Source](#building-from-source)
+11. [License](#license)
+12. [Screenshots](#screenshots)
 
 ## **Getting Started**
 
