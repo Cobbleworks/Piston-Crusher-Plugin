@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/plugin-logo.png" alt="Cobbleworks - Piston Crusher Plugin" width="200" height="200" />
+  <img src="images/plugin-banner.png" alt="Cobbleworks - Piston Crusher Plugin banner" width="818" />
 </p>
 <h1 align="center">Cobbleworks - Piston Crusher Plugin</h1>
 <p align="center">
